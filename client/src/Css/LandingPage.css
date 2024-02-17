@@ -1,0 +1,17 @@
+.landingpage-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  /* margin: auto; */
+  /* justify-content: center; */
+  align-items: center;
+  /* border: 2px solid blue; */
+}
+
+.foodLogo-Container {
+  height: 200px;
+}
+
+.foodLogo {
+  height: 100%;
+}

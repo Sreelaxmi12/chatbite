@@ -1,0 +1,97 @@
+[
+  {
+    "name": "John Doe",
+    "dob": "1990-05-15",
+    "address": "456 Pine Street, Townsville",
+    "address_type": {
+      "office": true,
+      "home": false,
+      "others": false
+    },
+    "veg": true,
+    "cuisine": "Italian",
+    "google_pin": {
+      "lat": "78.123456",
+      "long": "-23.456789"
+    },
+    "allergies": ["Peanuts", "Shellfish"],
+    "creation_date": "2024-02-11",
+    "phone_number": "+1234567890"
+  },
+  {
+    "name": "Jane Smith",
+    "dob": "1985-08-22",
+    "address": "789 Oak Avenue, Cityville",
+    "address_type": {
+      "office": false,
+      "home": true,
+      "others": false
+    },
+    "veg": false,
+    "cuisine": "Indian",
+    "google_pin": {
+      "lat": "98.765432",
+      "long": "-12.345678"
+    },
+    "allergies": ["Dairy"],
+    "creation_date": "2024-01-20",
+    "phone_number": "+9876543210"
+  },
+  {
+    "name": "Samuel Benjin",
+    "dob": "1995-06-20",
+    "address": "789 old town, Clariton",
+    "address_type": {
+      "office": false,
+      "home": false,
+      "others": true
+    },
+    "veg": false,
+    "cuisine": "Chinese",
+    "google_pin": {
+      "lat": "95.765432",
+      "long": "-10.345678"
+    },
+    "allergies": ["Cucumber"],
+    "creation_date": "2024-02-11",
+    "phone_number": "+9876555510"
+  },
+  {
+    "name": "Sreelaxmi Sukhari",
+    "dob": "2002-11-12",
+    "address": "R N Das, 1294/4, Near CRP square, Nayapalli",
+    "address_type": {
+      "office": false,
+      "home": false,
+      "others": true
+    },
+    "veg": false,
+    "cuisine": "Indian",
+    "google_pin": {
+      "lat": "20.28471037780102",
+      "long": "85.80855120233356"
+    },
+    "allergies": ["Dairy"],
+    "creation_date": "2024-02-11",
+    "phone_number": "+91-7205188930"
+  },
+  {
+    "name": "Amlan Das",
+    "dob": "2001-08-19",
+    "address": "789 Oak Avenue, Cityville",
+    "address_type": {
+      "office": false,
+      "home": true,
+      "others": false
+    },
+    "veg": false,
+    "cuisine": "Indian",
+    "google_pin": {
+      "lat": "20.23223850108883",
+      "long": "85.83011817185024"
+    },
+    "allergies": ["Sugar"],
+    "creation_date": "2024-02-11",
+    "phone_number": "+91-7077941365"
+  }
+]
