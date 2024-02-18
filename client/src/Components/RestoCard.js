@@ -9,9 +9,11 @@ const RestoCard = () => {
         <img className="resto-img" src={restoImg} alt="" />
       </div>
       <div className="resto-details">
-        <div>Resto Name</div>
-        <div>Resto Address</div>
-        <div>Rating: 3.8</div>
+        <div>
+          <div style={{ fontSize: "26px" }}>Resto Name</div>
+          <div>Resto Address</div>
+          <div>Rating: 3.8</div>
+        </div>
         <button className="menu-btn">Menu</button>
       </div>
     </div>

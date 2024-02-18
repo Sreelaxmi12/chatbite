@@ -11,7 +11,9 @@ const UserCard = () => {
       <div className="User-details">
         <div>User Name</div>
         <div>User Address</div>
-        <button className="menu-btn">Menu</button>
+        {/* <button className="menu-btn">Menu</button> */}
+        <div>Address</div>
+        <div>Fav Cuisine</div>
       </div>
     </div>
   );
